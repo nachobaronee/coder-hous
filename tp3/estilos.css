@@ -1,0 +1,43 @@
+*{
+
+	margin: 0;
+	padding: 0;
+
+
+}
+
+.contenedor{
+	width: 960px;
+	margin: 0 auto;
+	
+}
+
+nav{
+	height: 80px;
+
+} 
+
+nav a img {
+	padding: 27px;
+
+
+}
+.navbar{
+	float: right;
+	line-height: 80px
+
+}
+
+.navbar a{
+	padding:28px;
+	font-size: 15px;
+	text-decoration: none;
+	color:black;
+
+
+}
+.banner img{
+	max-width: 100%;
+	height: auto;
+}
+
